@@ -1,0 +1,19 @@
+.red{
+  background-color: darkred; 
+}
+
+red:hover{
+ background-color: red;
+ box-shadow: 0 0 1.5em 1em pink;
+ cursor: pointer;
+}
+
+.yellow{
+background-color: yellow;
+
+}
+
+.green{
+ background-color:green;
+
+}
